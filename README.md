@@ -50,6 +50,6 @@
 
 <p align="center">
     <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=shrawak&theme=aura"></a>
-     <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=shrawak&theme=dark&background=000000"></a>
+     <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=shrawak&theme=aura"></a>
     <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrawak&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
