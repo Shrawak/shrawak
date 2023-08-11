@@ -49,7 +49,5 @@
 ## GitHub's Stats
 
 <p align="center">
-    <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api?username=shrawak&theme=aura"></a>
      <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=shrawak&theme=aura"></a>
-    <a style="width: 48%;" href="https://github.com/shrawak" ><img style="height: 12rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrawak&theme=aura&hide=html,css,cmake&layout=compact&langs_count=5"></a>
 </p>
